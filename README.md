@@ -4,8 +4,6 @@
 
 ---
 
-<h2 align="left">Stats</h2>
-
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
